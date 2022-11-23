@@ -3,6 +3,14 @@
 // in real life you probably have good enough library so you don't need to code all of this.
 // but after all being a programmer is not just using library you should undrstand what you are doing 
 
+// if input 2 0 2 5
+// output:
+// 02:00
+// 02:01
+// 02:02
+// 02:03
+// 02:04
+// 02:05
 
 package javaapplication;
 import java.util.Scanner;
